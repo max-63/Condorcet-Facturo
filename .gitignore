@@ -1,0 +1,3 @@
+frontend/node_modules
+# Ignore the build output directory
+frontend/dist
